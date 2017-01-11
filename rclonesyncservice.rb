@@ -2,6 +2,7 @@ class Rclonesyncservice < Formula
   desc "RClone Synchronization Service"
   homepage "http://github.com/rhummelmose/rclonesyncservice"
   url "https://github.com/rhummelmose/rclonesyncservice.git"
+  version "0.0.1"
 
   bottle :unneeded
 
